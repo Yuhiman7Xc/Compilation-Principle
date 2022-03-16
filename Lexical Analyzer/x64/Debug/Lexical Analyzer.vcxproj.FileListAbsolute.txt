@@ -1,0 +1,1 @@
+D:\课程\编译原理&实验\LAB\LAB1\Lexical Analyzer\x64\Debug\Lexical Analyzer.exe
